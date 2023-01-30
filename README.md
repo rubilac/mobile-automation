@@ -37,3 +37,7 @@ This is the IOS equivalent of Android Studio which enable device simulation. Sim
 
 ![overview](https://user-images.githubusercontent.com/12985996/215455084-fd350097-e8cb-4dd2-9c23-f37650d51fc2.png)
 
+## Video of running build
+https://user-images.githubusercontent.com/12985996/215493002-c0f022dc-d2e7-4ff4-9332-2a3558bb9452.mp4
+
+
